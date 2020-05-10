@@ -1,0 +1,69 @@
+
+<resources>
+    <string name="app_name">Travel Agent</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="hotel_info_placeholder">Here is some news</string>
+
+
+    <string-array name="hotel_titles">
+        <item>Residence Hotel</item>
+        <item>Premium Hotel Panorama</item>
+        <item>Novotel Hotel</item>
+        <item>Hotel Auris</item>
+        <item>Hotel Atlantis</item>
+        <item>Hungest Hotel Aqua</item>
+        <item>Barokk Hotel</item>
+        <item>ETO Park Hotel</item>
+        <item>Avatgarde Apartmanok</item>
+        <item>Corvin Hotel</item>
+        <item>Soho Hotel</item>
+    </string-array>
+
+    <string-array name="hotel_info">
+        <item>Siófok</item>
+        <item>Siófok</item>
+        <item>Szeged</item>
+        <item>Szeged</item>
+        <item>Hajduszoboszló</item>
+        <item>Hajduszoboszló</item>
+        <item>Győr</item>
+        <item>Győr</item>
+        <item>Budapest</item>
+        <item>Budapest</item>
+        <item>Budapest</item>
+    </string-array>
+
+
+    <array name="hotel_images">
+        <item>@drawable/img_residence</item>
+        <item>@drawable/img_panorama</item>
+        <item>@drawable/img_novotel</item>
+        <item>@drawable/img_auris</item>
+        <item>@drawable/img_atlantis</item>
+        <item>@drawable/img_hungest</item>
+        <item>@drawable/img_barokk</item>
+        <item>@drawable/img_eto</item>
+        <item>@drawable/img_avantgarde</item>
+        <item>@drawable/img_corvin</item>
+        <item>@drawable/img_soho</item>
+
+    </array>
+
+    <string-array name="hotel_city">
+    <item>Siófok</item>
+    <item>Siófok</item>
+    <item>Szeged</item>
+    <item>Szeged</item>
+    <item>Hajduszoboszló</item>
+    <item>Hajduszoboszló</item>
+    <item>Győr</item>
+    <item>Győr</item>
+    <item>Budapest</item>
+    <item>Budapest</item>
+    <item>Budapest</item>
+</string-array>
+
+
+
+</resources>

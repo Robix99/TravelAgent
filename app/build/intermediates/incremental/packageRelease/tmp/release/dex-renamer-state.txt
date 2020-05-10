@@ -1,0 +1,4 @@
+#Sat May 09 16:36:41 CEST 2020
+base.0=C\:\\Users\\kissr\\Desktop\\TravelAgent\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
